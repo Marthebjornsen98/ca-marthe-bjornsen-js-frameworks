@@ -17,7 +17,8 @@ This project was my last Javascript Framework Course Assignment. You can click o
 ### Run project
 
 Clone the repo:
-- git clone: [[git@github.com:NoroffFEU/portfolio-1-example.git](https://github.com/Marthebjornsen98/semester-project-wrist.git)](https://github.com/Marthebjornsen98/ca-marthe-bjornsen-js-frameworks.git)
+- git clone
+- [[git@github.com:NoroffFEU/portfolio-1-example.git](https://github.com/Marthebjornsen98/semester-project-wrist.git)](https://github.com/Marthebjornsen98/ca-marthe-bjornsen-js-frameworks.git)
 
 Run project
 - npm run dev
